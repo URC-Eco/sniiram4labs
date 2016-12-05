@@ -1,6 +1,6 @@
 {
   "name": "Sniiram4labs",
   "tagline": "",
-  "body": "# sniiram4labs\r\n",
+  "body": "# Bienvenue sur le site du projet *sniiram4labs*\r\n\r\nCe projet décrit une installation matérielle et logicielle pour travailler de façon performante sur les bases de données du Sniiram.\r\n\r\nPour plus d'informations allez sur le [wiki du projet](https://github.com/URC-Eco/sniiram4labs/wiki).\r\n\r\n## Contenu du projet\r\n\r\nCe projet est hébergé sur GitHub. Il est composé de deux parties :\r\n\r\n  1. Le [wiki](https://github.com/URC-Eco/sniiram4labs/wiki) qui contient des explications détaillées sur le matériel nécessaire, les logiciels à installer, et la méthode d'administration.\r\n  2. Le code, sur cette page, contient les programmes nécessaires pour le travail sur les données.\r\n\r\n## Contribuer\r\n\r\nCe projet est collaboratif et ouvert. Vos retours, critiques et suggestions sont les bienvenues. Pour contribuer nous vous invitons par commencer à ouvrir une *issue* [sur cette page](https://github.com/URC-Eco/sniiram4labs/issues).\r\n\r\n## Développeurs\r\n\r\n[Antoine Filipović-Pierucci](https://pierucci.org) et [Kevin Zarca](http://www.urc-eco.fr/Kevin-ZARCA,402) de l'[URC-Eco](http://www.urc-eco.fr).\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
