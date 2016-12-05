@@ -17,4 +17,4 @@ Ce projet est collaboratif et ouvert. Vos retours, critiques et suggestions sont
 
 ## Développeurs
 
-Antoine Filipovic-Pierucci et Kevin Zarca de l'URC-Eco.
+[Antoine Filipović-Pierucci](https://pierucci.org) et [Kevin Zarca](http://www.urc-eco.fr/Kevin-ZARCA,402) de l'[URC-Eco](http://www.urc-eco.fr).
