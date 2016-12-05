@@ -1,3 +1,20 @@
-# sniiram4labs
+# Bienvenue sur le site du projet *sniiram4labs*
 
-Bienvenue sur le site du projet *sniiram4labs*. Pour plus d'informations allez sur le [wiki du projet](https://github.com/URC-Eco/sniiram4labs/wiki).
+Ce projet décrit une installation matérielle et logicielle pour travailler de façon performante sur les bases de données du Sniiram.
+
+Pour plus d'informations allez sur le [wiki du projet](https://github.com/URC-Eco/sniiram4labs/wiki).
+
+## Contenu du projet
+
+Ce projet est hébergé sur GitHub. Il est composé de deux parties :
+
+  1. Le [wiki](https://github.com/URC-Eco/sniiram4labs/wiki) qui contient des explications détaillées sur le matériel nécessaire, les logiciels à installer, et la méthode d'administration.
+  2. Le code, sur cette page, contient les programmes nécessaires pour le travail sur les données.
+
+## Contribuer
+
+Ce projet est collaboratif et ouvert. Pour contribuer nous vous invitons par commencer à ouvrir une *issue* [sur cette page](https://github.com/URC-Eco/sniiram4labs/issues).
+
+## Développeurs
+
+Antoine Filipovic-Pierucci et Kevin Zarca de l'URC-Eco.
