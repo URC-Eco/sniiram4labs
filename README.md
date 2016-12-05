@@ -13,7 +13,7 @@ Ce projet est hébergé sur GitHub. Il est composé de deux parties :
 
 ## Contribuer
 
-Ce projet est collaboratif et ouvert. Pour contribuer nous vous invitons par commencer à ouvrir une *issue* [sur cette page](https://github.com/URC-Eco/sniiram4labs/issues).
+Ce projet est collaboratif et ouvert. Vos retours, critiques et suggestions sont les bienvenues. Pour contribuer nous vous invitons par commencer à ouvrir une *issue* [sur cette page](https://github.com/URC-Eco/sniiram4labs/issues).
 
 ## Développeurs
 
